@@ -5,14 +5,6 @@
 
 Give your Backbone object a named constructor, so you can make sense of it in the dev tools console.
 
-So, instead of:
-
-![](https://raw.github.com/tanem/backbone.namedconstructor/master/no-named-constructor.png)
-
-You'll see:
-
-![](https://raw.github.com/tanem/backbone.namedconstructor/master/named-constructor.png)
-
 ## Installation
 
 ```
@@ -29,6 +21,14 @@ var Model = Backbone.Model.extend({ constructorName: 'Foo' });
 console.log(new Model().constructor.name);
 // 'Foo'
 ```
+
+So, instead of:
+
+![](https://raw.github.com/tanem/backbone.namedconstructor/master/no-named-constructor.png)
+
+You'll see:
+
+![](https://raw.github.com/tanem/backbone.namedconstructor/master/named-constructor.png)
 
 ## Tests
 
