@@ -25,9 +25,9 @@ $ npm install backbone.namedconstructor
 var Backbone = require('backbone');
 require('backbone.namedconstructor');
 
-var Model = Backbone.Model.extend({ constructorName: 'FooModel' });
+var Model = Backbone.Model.extend({ constructorName: 'Foo' });
 console.log(new Model().constructor.name);
-// 'FooModel'
+// 'Foo'
 ```
 
 ## Tests
