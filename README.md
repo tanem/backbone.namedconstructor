@@ -5,6 +5,8 @@
 
 Give your Backbone object a named constructor, so you can make sense of it in the dev tools console.
 
+Works with AMD, CommonJS and browser globals.
+
 ## Installation
 
 ```
