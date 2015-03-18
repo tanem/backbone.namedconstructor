@@ -1,3 +1,7 @@
+## v1.0.4 / 2015-03-19
+
+ * ([2f71ce6](https://github.com/tanem/backbone.namedconstructor/commit/2f71ce600bf5f55efff5ce87787e2c70f92c7b06)) Update README
+
 ## v1.0.3 / 2015-03-19
 
  * ([da9c725](https://github.com/tanem/backbone.namedconstructor/commit/da9c7258f7e3ae3b5d1938b129db1fbe17d0edc6)) Update README example
