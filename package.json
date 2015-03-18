@@ -1,6 +1,6 @@
 {
   "name": "backbone.namedconstructor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Names Backbone object constructors.",
   "main": "backbone.namedconstructor.js",
   "dependencies": {
