@@ -13,6 +13,8 @@ $ npm install backbone.namedconstructor
 
 ## Example
 
+If you set a `constructorName` property, this will be used to name the `constructor`:
+
 ```js
 var Backbone = require('backbone');
 require('backbone.namedconstructor');
