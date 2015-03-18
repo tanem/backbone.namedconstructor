@@ -1,3 +1,7 @@
+## v1.0.2 / 2015-03-19
+
+ * ([ec0ec60](https://github.com/tanem/backbone.namedconstructor/commit/ec0ec605636d40bc4b33fd2a3e53ebe4899d9b57)) Tweak README example
+
 ## v1.0.1 / 2015-03-19
 
  * ([32fb202](https://github.com/tanem/backbone.namedconstructor/commit/32fb202064c193fb310bd4d41f763c05913f451a)) Tweak README example
