@@ -1,0 +1,32 @@
+{
+  "name": "backbone.namedconstructor",
+  "version": "1.0.0",
+  "description": "Names Backbone object constructors.",
+  "main": "backbone.namedconstructor.js",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "underscore": "^1.8.2"
+  },
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "scripts": {
+    "test": "tape test/backbone.namedconstructor.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tanem/backbone.namedconstructor.git"
+  },
+  "homepage": "https://github.com/tanem/backbone.namedconstructor",
+  "keywords": [
+    "backbone",
+    "named",
+    "constructor",
+    "debugging"
+  ],
+  "author": {
+    "name": "Tane Morgan",
+    "url": "http://github.com/tanem"
+  },
+  "license": "MIT"
+}
