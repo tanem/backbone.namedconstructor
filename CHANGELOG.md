@@ -1,3 +1,7 @@
+## v1.0.5 / 2015-03-22
+
+ * ([d1138bc](https://github.com/tanem/backbone.namedconstructor/commit/d1138bca9df5eba2b379d540072937699cca337f)) Update package.json keywords
+
 ## v1.0.4 / 2015-03-19
 
  * ([2f71ce6](https://github.com/tanem/backbone.namedconstructor/commit/2f71ce600bf5f55efff5ce87787e2c70f92c7b06)) Update README
