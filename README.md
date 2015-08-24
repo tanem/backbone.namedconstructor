@@ -43,3 +43,7 @@ $ npm test
 ## Credit
 
 The basis for this module was [this great Stack Overflow answer](http://stackoverflow.com/a/15034014) given by [Dan Malcolm](http://stackoverflow.com/users/146280/dan-malcolm). Cheers!
+
+## License
+
+MIT
