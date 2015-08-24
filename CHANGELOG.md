@@ -1,3 +1,7 @@
+## v1.0.6 / 2015-08-24
+
+ * ([7f5115c](https://github.com/tanem/backbone.namedconstructor/commit/7f5115c8d0e79272418f111f8e4443942d3f4823)) Add license info to README
+
 ## v1.0.5 / 2015-03-22
 
  * ([d1138bc](https://github.com/tanem/backbone.namedconstructor/commit/d1138bca9df5eba2b379d540072937699cca337f)) Update package.json keywords
